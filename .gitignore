@@ -6,7 +6,6 @@ typechain-types
 yarn-error.log
 
 #Hardhat files
-artifacts/
 artifacts-ref/
 hh-cache/
 hh-cache-ref/
